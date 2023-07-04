@@ -1,0 +1,17 @@
+.cardBox{
+    border: 2px solid lightgrey;
+    height: 23.5rem;
+    width: 40rem;
+    text-align: center;
+    font-family: arial;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.Card{
+    text-align: center;
+    font-size: 4rem;
+    font-family: arial;
+    font-weight: 600;
+    color: rgb(195,206,216);
+}

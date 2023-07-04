@@ -1,0 +1,17 @@
+.list{
+    border: 1px solid lightgrey;
+    padding: 8px 0px 8px 0px;
+    cursor: pointer;
+    text-align: center;
+    font-family: arial;
+}
+span{
+    padding: 10px 60px 10px 30px;
+    font-family: arial;
+    text-align: center ;
+}
+
+.list:hover{
+    background-color: black;
+    color: white;
+}
